@@ -1,46 +1,73 @@
-body{
-    color: white;
-    background-color:#121212;
-    font-size: xx-large;
-    padding: 10px;
+body {
+  color: white;
+  background-color: #121212;
+  font-size: xx-large;
+  margin: 0;
 }
 
-p{
-    margin: 0;
+p {
+  margin: 0;
+}
+b {
+  color: #ff5f1f;
+}
+a {
+  text-decoration: none;
+  color: white;
 }
 
-b{
-    color: #FF5F1F;
+nav {
+  padding: 10px;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+}
+.myName {
+  width: fit-content;
+}
+.navButtonContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+}
+.navButton {
+  margin: 0px 5px;
+  padding: 5px 10px;
+}
+.navButton:hover {
+  background-color: #ff5f1f;
+  border-radius: 1rem;
 }
 
-a{
-    text-decoration: none;
-    color: white;
+footer {
+  text-align: center;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  padding-top: 10px;
 }
 
-nav{
-    justify-content: space-between;
-    display: flex;
-    flex-direction: row;
-
+.contact {
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
-.myName{
-    width: fit-content;
+.contact a {
+  font-size: smaller;
+  padding: 5px 25px;
 }
 
-.navButtonContainer{
-
-    display: flex;
-    flex-direction: row;
-    gap: 1.5rem;
-}
-.navButton{
-    margin: 0px 5px;
-    padding: 5px 10px;
+.contact a:hover {
+  border-radius: 1rem;
+  background-color: #ff5f1f;
 }
 
-.navButton:hover{
-    background-color: #FF5F1F;
-    border-radius: 1rem;
+.copyright {
+  padding: 10px;
+  text-align: center;
+  font-size: medium;
 }
