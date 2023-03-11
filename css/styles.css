@@ -1,0 +1,46 @@
+body{
+    color: white;
+    background-color:#121212;
+    font-size: xx-large;
+    padding: 10px;
+}
+
+p{
+    margin: 0;
+}
+
+b{
+    color: #FF5F1F;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+nav{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.myName{
+    width: fit-content;
+}
+
+.navButtonContainer{
+
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+}
+.navButton{
+    margin: 0px 5px;
+    padding: 5px 10px;
+}
+
+.navButton:hover{
+    background-color: #FF5F1F;
+    border-radius: 1rem;
+}
