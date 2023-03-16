@@ -1,11 +1,50 @@
-# MyPortfolio
+# My Portfolio
 
 ## Description
 
-This is a Portfolio Web Page project that shows my recenlty learned skills at University of Toronto bootcamp.
+I developed this Portfolio Web Page project to showcase the skills I acquired during my recent studies at the University of Toronto bootcamp. The primary purpose of the project is to attract potential employers who are seeking either part-time or full-time web developers.
 
-I have created this project to help me to find future potential employers looking to fill a part-time or full-time web development positions.
+My web page features a brief introduction about myself, a profile picture, contact details, and a summary of the projects I have been working on during my time in the bootcamp. Additionally, my portfolio showcases images of deployed web pages. By clicking on the top two images, visitors are redirected to the respective web pages. Furthermore, I have added two more images as placeholders for future projects.
 
-My web page contains information about me, profile picture, how to contact me and projects I have been working on during bootcamp. Also, portfolio contains images of deployed web pages. Simply click on one of the top two images and you will be redirected to the deployed web pages. Moreover, two more images were added as a placeholder for my further projects.
+In creating this portfolio, I utilized HTML5 and CSS in Visual Code. The CSS code includes flexbox, which helped me to position the elements and make them flexible, and media queries, which ensured a responsive design for optimal viewing on all devices such as desktops, laptops, iPads, and mobile devices. Finally, I uploaded and pushed the web page to a GitHub Repository named "challenge2".
 
-Creating Portfolio I have used HTML5 and CSS in Visual Code. CSS code contains flexbox which helped me to position elements and make them flexible, media queries to make responsive desing which makes my web page looks good on all devices (desktops,laptops, ipads and mobile devices). The web page was uploaded and pushed to GitHub Repository named "challenge2".
+## Table of contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Contribution](#contribution)
+- [Questions](#questions)
+- [License](#license)
+
+## Installation
+
+follow the link of the deployed application [My Portfolio](https://aleksandrbausher.github.io/MyPortfolio/) ,
+
+otherwise clone GitHub repository [My Portfolio](https://github.com/AleksandrBausher/MyPortfolio)
+
+## Usage
+click here to access my [Portfolio](https://aleksandrbausher.github.io/MyPortfolio/),<br />
+to know more about me and my projects
+
+## Screenshot
+
+![About Me](./images/screenshot1.png "About Me")
+![Work](./images/screenshot2.png "Work")
+![Contact](./images/screenshot3.png "Contact")
+
+
+## Contribution
+
+application was created by Terry Kornienko and if you want to contribute send me email.
+
+## Questions
+
+My Email:
+[aleksandrbausher@gmail.com](mailto:aleksandrbausher@gmail.com)
+My Github:
+[AleksandrBausher](https://github.com/aleksandrbausher)
+
+## License
+
+![badge](https://img.shields.io/badge/license-MIT-blue)
