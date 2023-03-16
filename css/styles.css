@@ -10,6 +10,11 @@ body {
   flex-direction: column;
 }
 
+main{
+    padding-top: 60px;
+}
+
+
 p {
   margin: 0;
 }
@@ -19,7 +24,7 @@ b {
 }
 
 a {
-  cursor: default;
+  cursor: pointer;
   text-decoration: none;
   color: white;
 }
@@ -97,7 +102,7 @@ footer {
 
 #about {
   background-color: black;
-  background-image: url("/images/background.gif");
+  background-image: url("/images/background1.gif");
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -105,12 +110,15 @@ footer {
 }
 
 #about img {
-  height: 20rem;
+  height: 30rem;border-radius: 10px;
 }
 
 .description {
+    padding: 15px;
+    border-radius: 10px;
   display: flex;
   flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.7);;
 }
 
 .description p {
@@ -145,6 +153,8 @@ footer {
   justify-content: center;
 }
 
+
+
 .overlay {
   width: inherit;
   height: inherit;
@@ -153,8 +163,11 @@ footer {
   background-color: rgba(0, 0, 0, 0.4);
 }
 
+
+
+
 .workTiles {
-  background-image: url("/images/proj1.png");
+  
   background-repeat: no-repeat;
   background-size: 30rem 15rem;
   display: flex;
