@@ -36,7 +36,7 @@ to know more about me and my projects
 
 ## Contribution
 
-application was created by Terry Kornienko and if you want to contribute send me email.
+application was created by Aleksandr Bausher and if you want to contribute send me email.
 
 ## Questions
 
